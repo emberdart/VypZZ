@@ -1,7 +1,7 @@
 VypZZ
 =====
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/danwdart/VypZZ.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/emberdart/VypZZ.svg)](https://greenkeeper.io/)
 
 # DEPRECATED
 
